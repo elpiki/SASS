@@ -1,0 +1,27 @@
+header {
+  background-color: aqua;
+  display: inline-block;
+}
+header div {
+  border: 10px;
+  border-color: black;
+}
+header a {
+  background-color: brown;
+  font-style: italic;
+}
+
+section {
+  background-color: beige;
+}
+section h1 {
+  background-color: chartreuse;
+  font-style: inherit;
+}
+section h2 {
+  background-color: cadetblue;
+  display: inline-block;
+}
+section p {
+  background-color: crimson;
+}/*# sourceMappingURL=main.css.map */

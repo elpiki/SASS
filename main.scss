@@ -1,0 +1,25 @@
+header {
+    background-color: aqua;
+    div {
+        border: 10px;
+        border-color: black;
+    }
+    a {
+        background-color: brown;
+        font-style: italic;
+    }
+}
+section {
+    background-color: beige;
+    h1 {
+        background-color: chartreuse;
+        font-style: inherit;
+    }
+    h2 {
+        background-color: cadetblue;
+        display: inline-block;
+    }
+    p {
+        background-color: crimson;
+    }
+}
